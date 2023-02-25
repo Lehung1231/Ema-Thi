@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "name": "JS Nâng Cao123",
+      "id": 1,
+      "email": "hung@gmail.com",
+      "mk": "123456"
+    },
+    {
+      "name": "adadad",
+      "id": 2
+    },
+    {
+      "name": "dadas",
+      "id": 3
+    },
+    {
+      "name": "fgfhgjhkjkj",
+      "id": 4
+    },
+    {
+      "name": "adad123",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "ertrytyujk123223"
+    }
+  ]
+}
